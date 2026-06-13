@@ -303,3 +303,8 @@ Reactivates all user QR codes and allows them to be used again.
 ## Disclaimer
 
 This project is intended for educational, hobby, and light-duty access-control applications. It is not designed or certified for security-critical, safety-critical, or high-value asset protection systems.
+
+Licensed under the Apache License 2.0.
+
+This project includes third-party components.
+Users are responsible for complying with the licenses of all included libraries, frameworks, and hardware designs.
