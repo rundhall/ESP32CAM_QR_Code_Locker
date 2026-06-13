@@ -70,10 +70,12 @@ ESP32CAM_QR_Code_Locker/
 | Component              | Qty   |
 | ---------------------- | ----- |
 | ESP32-CAM (AI Thinker) | 1     |
-| QR Code Scanner Module | 1     |
-| 5V Solenoid Lock       | 1     |
+| 12V Solenoid Lock      | 1     |
+| 12DC-5DC converter     | 1     |
 | Spring Hinges          | 1 set |
-| 5V Power Supply        | 1     |
+| 12 V supply Power bank | 1     |
+| Relay module           | 1     |
+| Buzzer                 | 1     |
 | Storage Box            | 1     |
 
 A complete bill of materials and purchase links can be found in the Hardware section.

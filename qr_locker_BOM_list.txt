@@ -1,0 +1,11 @@
+Material Name	amount		link
+ESP32-CAM ESP32-CAM-MB MICRO USB ESP32 Serial to WiFi Development Board CH340 CH340G 5V Bluetooth+OV3660 upgraded OV2640 Camera	1	pc	https://www.aliexpress.com/item/1005005958341078.html
+2pcs Self Closing Spring Door Hinge Stainless Steel Hinge For Window Cabinets Jewelry Boxes Automatic Rebound Hardware	1	pc	https://www.aliexpress.com/item/1005007384774578.html
+12V 180kg Holding Force Embedded Electric Magnetic Lock Electromagnetic Lock Access Control Magnetic Lock Magnetic Door Lock	1	pc	https://www.aliexpress.com/item/1005009147844566.html
+Large Capacity Storage Box Organizer for Figures Acrylic Box Clear Blind Box Showcase Makeup Organizer for Bag	1	pc	https://www.aliexpress.com/item/1005007751233491.html
+XL4015 DC 4-38V To DC 1.25-36V Continuously Adjustable Constant-Current Constant Voltage 5A Low-Ripple Buck Board Buck Converter	1	pc	https://www.aliexpress.com/item/1005008555232575.html
+3V Active Buzzer Magnetic Long Continous Beep Tone Alarm Ringer 12mm MINI Active Piezo Buzzers Fit For Arduino	1	pc	https://www.aliexpress.com/item/1005007465193498.html
+5V 2 Channel DC 5V Relay Module High and Low Level Trigger with Optocoupler Isolation Relay Module for Arduino Relay	1	pc	https://www.aliexpress.com/item/1005010459198076.html
+PD fast charging test board 5-20V adjustable PD trigger module USB Type-C 100W power supply tester	1	pc	https://www.aliexpress.com/item/1005010018999411.html
+4x18650 DIY Power Bank Shell 25W Super Fast Charging Case Dual USB Micro Type C Battery Storage Box Case Holder Without Battery	1	pc	https://www.aliexpress.com/item/1005010407310552.html
+4pcs LiitoKala 3.7V 18650/21700 Battery KING4000 KING6000 LT28A LT33A LT55A	1	pc	https://www.aliexpress.com/item/1005010323520949.html
